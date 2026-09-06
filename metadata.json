@@ -1,0 +1,6 @@
+{
+  "name": "Love Humbly Dress Rental",
+  "description": "Premier dress and gown rental shop in the Philippines featuring real-time availability tracking, automated booking calendar, GCash and bank transfer payments, and rental guidelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

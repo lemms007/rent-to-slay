@@ -1,0 +1,905 @@
+[
+  {
+    "id": "lh-adara-long",
+    "name": "Adara Long Filipiniana Dress",
+    "slug": "adara-long-filipiniana-dress",
+    "shop": "Love Humbly",
+    "shopUrl": "https://enstack.ph/love-humbly-shop",
+    "category": "Modern Filipiniana",
+    "tagline": "Modern corset-style Filipiniana with detachable butterfly sleeves (58\" length)",
+    "description": "Love Humbly's flagship modern Filipiniana gown featured on Enstack. Constructed with a fully lined and boned corset bodice with built-in bra cups and detachable structured Filipiniana butterfly sleeves. Crafted in smooth Mikado silk and soft tulle overlay with an elegant 58\" floor-sweeping length. Perfect for oath-taking ceremonies, civil and church weddings, formal galas, and graduations.",
+    "rentalPrice4Days": 1950,
+    "extraDayRate": 250,
+    "minRentalDays": 4,
+    "maxRentalDays": 14,
+    "retailPrice": 4500,
+    "securityDeposit": 1500,
+    "availableSizes": ["XS", "S", "M", "L", "XL"],
+    "measurements": [
+      { "size": "XS", "bust": "31-32 in", "waist": "23-24 in", "hips": "33-35 in", "length": "58 in" },
+      { "size": "S", "bust": "33-34 in", "waist": "25-26 in", "hips": "35-37 in", "length": "58 in" },
+      { "size": "M", "bust": "35-36 in", "waist": "27-28 in", "hips": "37-39 in", "length": "58 in" },
+      { "size": "L", "bust": "37-38 in", "waist": "29-30 in", "hips": "39-41 in", "length": "58 in" },
+      { "size": "XL", "bust": "39-41 in", "waist": "31-33 in", "hips": "41-43 in", "length": "58 in" }
+    ],
+    "colors": [
+      "Dark Dusty Blue",
+      "Champagne",
+      "Ecru",
+      "Pure White",
+      "Old Rose",
+      "Midnight Blue",
+      "Beige",
+      "Dusty Green",
+      "Burgundy",
+      "Black"
+    ],
+    "fabric": "Mikado Silk & Fine Tulle Overlay",
+    "silhouette": "Corset Column with Detachable Butterfly Sleeves",
+    "images": [
+      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "featured": true,
+    "fittingAvailable": true,
+    "careNotes": [
+      "Strictly garment steam only",
+      "Do not iron the detachable butterfly sleeves directly",
+      "Eco-dry cleaning handled exclusively by atelier"
+    ],
+    "bestFor": [
+      "PRC Oath Taking Ceremonies",
+      "Civil & Church Weddings",
+      "College Graduation",
+      "Modern Filipiniana Balls"
+    ]
+  },
+  {
+    "id": "lh-adara-midi",
+    "name": "Adara Midi Filipiniana Dress",
+    "slug": "adara-midi-filipiniana-dress",
+    "shop": "Love Humbly",
+    "shopUrl": "https://enstack.ph/love-humbly-shop",
+    "category": "Modern Filipiniana",
+    "tagline": "Corset-style midi Filipiniana with detachable butterfly sleeves (42\" length)",
+    "description": "The versatile midi-length edition of Love Humbly's best-selling Adara gown on Enstack. Features a fully boned sweetheart corset bodice and modular detachable butterfly sleeves, cut to a chic 40–44\" midi length. Easy to walk, sit, and celebrate in for daytime graduation rites, civil weddings, and anniversary soirees.",
+    "rentalPrice4Days": 1550,
+    "extraDayRate": 200,
+    "minRentalDays": 4,
+    "maxRentalDays": 14,
+    "retailPrice": 3500,
+    "securityDeposit": 1200,
+    "availableSizes": ["XS", "S", "M", "L", "XL"],
+    "measurements": [
+      { "size": "XS", "bust": "31-32 in", "waist": "23-24 in", "hips": "33-35 in", "length": "42 in" },
+      { "size": "S", "bust": "33-34 in", "waist": "25-26 in", "hips": "35-37 in", "length": "42 in" },
+      { "size": "M", "bust": "35-36 in", "waist": "27-28 in", "hips": "37-39 in", "length": "43 in" },
+      { "size": "L", "bust": "37-38 in", "waist": "29-30 in", "hips": "39-41 in", "length": "43 in" },
+      { "size": "XL", "bust": "39-41 in", "waist": "31-33 in", "hips": "41-43 in", "length": "44 in" }
+    ],
+    "colors": [
+      "Champagne",
+      "Ecru",
+      "Pure White",
+      "Old Rose",
+      "Black",
+      "Dusty Green",
+      "Midnight Blue"
+    ],
+    "fabric": "Mikado Silk with Tulle Accents",
+    "silhouette": "A-Line Midi with Detachable Butterfly Sleeves",
+    "images": [
+      "https://images.unsplash.com/photo-1581044777550-4cfa60707c03?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "featured": false,
+    "fittingAvailable": true,
+    "careNotes": [
+      "Delicate garment steam only",
+      "Detachable butterfly sleeves can be unhooked for evening dinner reception"
+    ],
+    "bestFor": [
+      "Civil Weddings",
+      "Graduation Recognition Day",
+      "Cocktail Events",
+      "Cultural Receptions"
+    ]
+  },
+  {
+    "id": "lh-sara-blue",
+    "name": "Sara Light Blue Modern Filipiniana Dress",
+    "slug": "sara-light-blue-filipiniana-dress",
+    "shop": "Love Humbly",
+    "shopUrl": "https://enstack.ph/love-humbly-shop",
+    "category": "Modern Filipiniana",
+    "tagline": "Delicate powder blue corset bodice with detachable terno butterfly sleeves",
+    "description": "A celebrated modern classic from Love Humbly's Enstack shop. Designed with an exquisite powder blue Mikado silk boned sweetheart bodice that comfortably cinches the waist, detachable structured butterfly sleeves, and a flattering knife-pleated tea-length skirt. A timeless choice for daytime oath-taking rites and garden ceremonies.",
+    "rentalPrice4Days": 1850,
+    "extraDayRate": 240,
+    "minRentalDays": 4,
+    "maxRentalDays": 14,
+    "retailPrice": 4200,
+    "securityDeposit": 1400,
+    "availableSizes": ["XS", "S", "M", "L", "XL"],
+    "measurements": [
+      { "size": "XS", "bust": "31-32 in", "waist": "23-24 in", "hips": "Free", "length": "46 in" },
+      { "size": "S", "bust": "33-34 in", "waist": "25-26 in", "hips": "Free", "length": "46 in" },
+      { "size": "M", "bust": "35-36 in", "waist": "27-28 in", "hips": "Free", "length": "47 in" },
+      { "size": "L", "bust": "37-38 in", "waist": "29-30 in", "hips": "Free", "length": "47 in" },
+      { "size": "XL", "bust": "39-41 in", "waist": "31-33 in", "hips": "Free", "length": "48 in" }
+    ],
+    "colors": [
+      "Powder Sky Blue",
+      "Soft Periwinkle",
+      "Pastel Ice Blue"
+    ],
+    "fabric": "Smooth Powder Blue Mikado Silk",
+    "silhouette": "Sweetheart Corset A-Line with Detachable Sleeves",
+    "images": [
+      "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1549060279-7e168fcee0c2?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "featured": true,
+    "fittingAvailable": true,
+    "careNotes": [
+      "Garment steam on reverse lining only",
+      "Keep terno butterfly sleeve domes upright"
+    ],
+    "bestFor": [
+      "PRC Licensure Oath Taking",
+      "College Baccalaureate",
+      "Civil Weddings",
+      "Garden Ceremonies"
+    ]
+  },
+  {
+    "id": "lh-deana",
+    "name": "Deana Modern Filipiniana Dress",
+    "slug": "deana-modern-filipiniana-dress",
+    "shop": "Love Humbly",
+    "shopUrl": "https://enstack.ph/love-humbly-shop",
+    "category": "Modern Filipiniana",
+    "tagline": "Sculpted corset bodice with structured terno sleeves in premium Mikado silk",
+    "description": "Clean architectural lines meet traditional Filipino poise. The Deana dress features an internal boned corset top that comfortably contours your silhouette, paired with modular snap-on terno sleeves that let you easily transition from a formal church ceremony to a chic sleeveless dinner reception.",
+    "rentalPrice4Days": 1950,
+    "extraDayRate": 250,
+    "minRentalDays": 4,
+    "maxRentalDays": 14,
+    "retailPrice": 4500,
+    "securityDeposit": 1500,
+    "availableSizes": ["XS", "S", "M", "L", "XL"],
+    "measurements": [
+      { "size": "XS", "bust": "31-32 in", "waist": "23-24 in", "hips": "33-35 in", "length": "52 in" },
+      { "size": "S", "bust": "33-34 in", "waist": "25-26 in", "hips": "35-37 in", "length": "52 in" },
+      { "size": "M", "bust": "35-36 in", "waist": "27-28 in", "hips": "37-39 in", "length": "53 in" },
+      { "size": "L", "bust": "37-38 in", "waist": "29-30 in", "hips": "39-41 in", "length": "53 in" },
+      { "size": "XL", "bust": "39-41 in", "waist": "31-33 in", "hips": "41-43 in", "length": "54 in" }
+    ],
+    "colors": [
+      "Midnight Black",
+      "Beige Sand",
+      "Dusty Rose",
+      "Midnight Blue",
+      "Burgundy Red",
+      "Champagne",
+      "Ecru",
+      "Dusty Green"
+    ],
+    "fabric": "Heavyweight Mikado Silk",
+    "silhouette": "Corset Column with Detachable Terno Sleeves",
+    "images": [
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "featured": false,
+    "fittingAvailable": true,
+    "careNotes": [
+      "Keep terno sleeves upright when not in use",
+      "Steam gently from the underside only"
+    ],
+    "bestFor": [
+      "State Galas",
+      "Modern Filipiniana Weddings",
+      "Diplomatic Receptions",
+      "Awards Nights"
+    ]
+  },
+  {
+    "id": "lh-sierra",
+    "name": "Sierra Champagne Corset Modern Filipiniana Midi Dress",
+    "slug": "sierra-champagne-corset-filipiniana-midi",
+    "shop": "Love Humbly",
+    "shopUrl": "https://enstack.ph/love-humbly-shop",
+    "category": "Modern Filipiniana",
+    "tagline": "Drop-waisted Basque corset top, fully boned & padded in shimmering champagne Mikado",
+    "description": "A breathtaking couture piece straight from Love Humbly's Enstack boutique. Features a dramatic elongated drop-waisted Basque corset bodice that is fully boned with padded cups, delivering flawless support without requiring extra undergarments. Includes signature detachable butterfly sleeves and a pleated tea-length skirt.",
+    "rentalPrice4Days": 2200,
+    "extraDayRate": 280,
+    "minRentalDays": 4,
+    "maxRentalDays": 14,
+    "retailPrice": 4950,
+    "securityDeposit": 1500,
+    "availableSizes": ["XS", "S", "M", "L"],
+    "measurements": [
+      { "size": "XS", "bust": "31-32 in", "waist": "23-24 in", "hips": "34-35 in", "length": "46 in" },
+      { "size": "S", "bust": "33-34 in", "waist": "25-26 in", "hips": "36-37 in", "length": "46 in" },
+      { "size": "M", "bust": "35-36 in", "waist": "27-28 in", "hips": "38-39 in", "length": "47 in" },
+      { "size": "L", "bust": "37-38 in", "waist": "29-30 in", "hips": "40-41 in", "length": "47 in" }
+    ],
+    "colors": ["Champagne Shimmer", "Pale Gold"],
+    "fabric": "Mikado Silk & Structured Basque Boning",
+    "silhouette": "Drop-Waisted Basque Corset with Detachable Sleeves",
+    "images": [
+      "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1549060279-7e168fcee0c2?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "featured": true,
+    "fittingAvailable": true,
+    "careNotes": [
+      "Store hanging by internal loops to preserve the boned Basque waist",
+      "Professional steam only"
+    ],
+    "bestFor": [
+      "Civil Weddings",
+      "High-Society Receptions",
+      "Graduation Balls",
+      "Debut Guest"
+    ]
+  },
+  {
+    "id": "lh-eula",
+    "name": "Eula Light Beige Corset Modern Filipiniana Midi Dress",
+    "slug": "eula-light-beige-corset-filipiniana-midi",
+    "shop": "Love Humbly",
+    "shopUrl": "https://enstack.ph/love-humbly-shop",
+    "category": "Modern Filipiniana",
+    "tagline": "Attached crinoline petticoat with fully boned corset & detachable terno sleeves",
+    "description": "Engineered for magnificent volume. Constructed with an integrated crinoline horsehair underskirt petticoat that holds its flared A-line silhouette crisply in tropical Philippine humidity. Features a padded boned corset bodice and detachable butterfly sleeves in refined light beige Mikado silk.",
+    "rentalPrice4Days": 2200,
+    "extraDayRate": 280,
+    "minRentalDays": 4,
+    "maxRentalDays": 14,
+    "retailPrice": 4950,
+    "securityDeposit": 1500,
+    "availableSizes": ["XS", "S", "M", "L", "XL"],
+    "measurements": [
+      { "size": "XS", "bust": "31-32 in", "waist": "23-24 in", "hips": "Free", "length": "45 in" },
+      { "size": "S", "bust": "33-34 in", "waist": "25-26 in", "hips": "Free", "length": "45 in" },
+      { "size": "M", "bust": "35-36 in", "waist": "27-28 in", "hips": "Free", "length": "46 in" },
+      { "size": "L", "bust": "37-38 in", "waist": "29-30 in", "hips": "Free", "length": "46 in" },
+      { "size": "XL", "bust": "39-41 in", "waist": "31-33 in", "hips": "Free", "length": "47 in" }
+    ],
+    "colors": ["Light Beige", "Warm Sand"],
+    "fabric": "Structured Mikado Silk with Built-in Crinoline Petticoat",
+    "silhouette": "Structured Bell A-Line with Detachable Terno Sleeves",
+    "images": [
+      "https://images.unsplash.com/photo-1550614000-4895a10e1bfd?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "featured": false,
+    "fittingAvailable": true,
+    "careNotes": [
+      "Do not compress crinoline petticoat when packing into garment bag",
+      "Steam gently from the interior lining outward"
+    ],
+    "bestFor": [
+      "Heritage Weddings",
+      "Oath Taking Ceremonies",
+      "Baccalaureate Services",
+      "Cocktail Dinners"
+    ]
+  },
+  {
+    "id": "lh-ria-amore",
+    "name": "Ria Amore Filipiniana Midi Dress",
+    "slug": "ria-amore-filipiniana-midi-dress",
+    "shop": "Love Humbly",
+    "shopUrl": "https://enstack.ph/love-humbly-shop",
+    "category": "Modern Filipiniana",
+    "tagline": "Sweetheart neckline with tailored butterfly sleeves in classic Mikado",
+    "description": "One of Love Humbly's top staples on Enstack for licensure oath takings, graduations, and civil wedding ceremonies. Classic sweetheart neckline, sculpted shoulders, and a tailored sheath skirt with back walking vent in rich Mikado silk.",
+    "rentalPrice4Days": 1550,
+    "extraDayRate": 200,
+    "minRentalDays": 4,
+    "maxRentalDays": 14,
+    "retailPrice": 3500,
+    "securityDeposit": 1200,
+    "availableSizes": ["XS", "S", "M", "L", "XL"],
+    "measurements": [
+      { "size": "XS", "bust": "31-32 in", "waist": "23-24 in", "hips": "33-35 in", "length": "44 in" },
+      { "size": "S", "bust": "33-34 in", "waist": "25-26 in", "hips": "35-37 in", "length": "44 in" },
+      { "size": "M", "bust": "35-36 in", "waist": "27-28 in", "hips": "37-39 in", "length": "45 in" },
+      { "size": "L", "bust": "37-38 in", "waist": "29-30 in", "hips": "39-41 in", "length": "45 in" },
+      { "size": "XL", "bust": "39-41 in", "waist": "31-33 in", "hips": "41-43 in", "length": "46 in" }
+    ],
+    "colors": [
+      "Burgundy Wine",
+      "Champagne",
+      "Dusty Rose",
+      "Ecru White",
+      "Midnight Blue",
+      "Black",
+      "Emerald"
+    ],
+    "fabric": "Mikado Silk & Matte Lining",
+    "silhouette": "Tailored Sheath Midi with Butterfly Sleeves",
+    "images": [
+      "https://images.unsplash.com/photo-1568252542512-9fe8fe9c87bb?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "featured": false,
+    "fittingAvailable": true,
+    "careNotes": [
+      "Garment steam only",
+      "Dry cleaning handled by Love Humbly"
+    ],
+    "bestFor": [
+      "PRC Oath Taking Ceremonies",
+      "Graduation & Baccalaureate",
+      "Civil Weddings",
+      "Anniversaries"
+    ]
+  },
+  {
+    "id": "lh-alexa-set",
+    "name": "Alexa Set Frosted Organza Off-Shoulder Top & Wrap Skirt",
+    "slug": "alexa-frosted-organza-set",
+    "shop": "Love Humbly",
+    "shopUrl": "https://enstack.ph/love-humbly-shop",
+    "category": "Modern Filipiniana",
+    "tagline": "Two-piece modern terno ensemble with frosted organza & wrap-around skirt",
+    "description": "A youthful two-piece coordinates ensemble from Love Humbly's Enstack shop. Features a frosted translucent organza off-shoulder top with structured bell sleeves, paired with a flattering high-waisted wrap-around tulip skirt. Offers exceptional mix-and-match versatility for modern Philippine celebrations.",
+    "rentalPrice4Days": 890,
+    "extraDayRate": 120,
+    "minRentalDays": 4,
+    "maxRentalDays": 14,
+    "retailPrice": 1540,
+    "securityDeposit": 800,
+    "availableSizes": ["S", "M", "L", "XL"],
+    "measurements": [
+      { "size": "S", "bust": "32-34 in", "waist": "25-27 in (Adjustable Wrap)", "hips": "35-37 in", "length": "40 in" },
+      { "size": "M", "bust": "34-36 in", "waist": "27-29 in (Adjustable Wrap)", "hips": "37-39 in", "length": "40 in" },
+      { "size": "L", "bust": "36-38 in", "waist": "29-31 in (Adjustable Wrap)", "hips": "39-41 in", "length": "41 in" },
+      { "size": "XL", "bust": "38-40 in", "waist": "31-33 in (Adjustable Wrap)", "hips": "41-43 in", "length": "41 in" }
+    ],
+    "colors": ["Champagne Gold", "Blush Pink", "Sage Green", "Ecru"],
+    "fabric": "Frosted Silk Organza & Premium Neoprene Crepe",
+    "silhouette": "Two-Piece Off-Shoulder Top & Tulip Wrap Skirt",
+    "images": [
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1549060279-7e168fcee0c2?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "featured": false,
+    "fittingAvailable": true,
+    "careNotes": [
+      "Steam frosted organza on low setting",
+      "Do not apply direct heat or iron"
+    ],
+    "bestFor": [
+      "Cocktail Parties",
+      "Graduation Dinners",
+      "Bridesmaid Entourage",
+      "Family Gatherings"
+    ]
+  },
+  {
+    "id": "lh-infinity",
+    "name": "Signature Convertible Infinity Maxi Dress with Matching Tube",
+    "slug": "signature-convertible-infinity-maxi-dress",
+    "shop": "Love Humbly",
+    "shopUrl": "https://enstack.ph/love-humbly-shop",
+    "category": "Infinity & Multiway",
+    "tagline": "Love Humbly's iconic best-seller since 2011 with 27+ styling options",
+    "description": "The definitive Philippine entourage staple pioneered by Love Humbly since 2011. Crafted from premium heavyweight 4-way stretch cotton spandex that drapes luxuriously without clinging or revealing underwear lines. Comes with a matching bandeau inner tube for modest styling. Can be styled 27+ different ways including halter, one-shoulder, cap-sleeve, Grecian drape, and backless.",
+    "rentalPrice4Days": 690,
+    "extraDayRate": 90,
+    "minRentalDays": 4,
+    "maxRentalDays": 14,
+    "retailPrice": 1500,
+    "securityDeposit": 500,
+    "availableSizes": ["Free Size", "XL"],
+    "measurements": [
+      { "size": "Free Size", "bust": "30-38 in (Stretch)", "waist": "22-32 in (Elasticized)", "hips": "Free", "length": "44 in from waist" },
+      { "size": "XL", "bust": "38-44 in (Stretch)", "waist": "32-40 in (Elasticized)", "hips": "Free", "length": "45 in from waist" }
+    ],
+    "colors": [
+      "Sage Green",
+      "Rose Gold",
+      "Navy Blue",
+      "Terracotta",
+      "Plum",
+      "Emerald",
+      "Slate Blue",
+      "Wine Red"
+    ],
+    "fabric": "Heavyweight Cotton Spandex 4-Way Stretch (Wrinkle-Resistant)",
+    "silhouette": "Floor-Length Convertible Multiway Flare",
+    "images": [
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "featured": true,
+    "fittingAvailable": true,
+    "careNotes": [
+      "Gentle cold water wash or light garment steam",
+      "Matching inner tube included with every rental"
+    ],
+    "bestFor": [
+      "Bridesmaid Entourage",
+      "Destination Weddings",
+      "Maternity Photoshoots",
+      "Debut Courts"
+    ]
+  },
+  {
+    "id": "lh-maya-filipiniana",
+    "name": "Maya Filipiniana Tea-Length Dress",
+    "slug": "maya-filipiniana-tea-length-dress",
+    "shop": "Love Humbly",
+    "shopUrl": "https://enstack.ph/love-humbly-shop",
+    "category": "Modern Filipiniana",
+    "tagline": "Feminine draped bodice with tailored butterfly sleeves in blush Mikado",
+    "description": "An elegant feminine addition from Love Humbly's Enstack boutique. Tailored in blush rose and champagne Mikado silk with traditional butterfly sleeves, draped bodice pleating, and an A-line tea length skirt that flatters every height.",
+    "rentalPrice4Days": 1650,
+    "extraDayRate": 220,
+    "minRentalDays": 4,
+    "maxRentalDays": 14,
+    "retailPrice": 3800,
+    "securityDeposit": 1200,
+    "availableSizes": ["XS", "S", "M", "L", "XL"],
+    "measurements": [
+      { "size": "XS", "bust": "31-32 in", "waist": "23-24 in", "hips": "Free", "length": "44 in" },
+      { "size": "S", "bust": "33-34 in", "waist": "25-26 in", "hips": "Free", "length": "44 in" },
+      { "size": "M", "bust": "35-36 in", "waist": "27-28 in", "hips": "Free", "length": "45 in" },
+      { "size": "L", "bust": "37-38 in", "waist": "29-30 in", "hips": "Free", "length": "45 in" },
+      { "size": "XL", "bust": "39-41 in", "waist": "31-33 in", "hips": "Free", "length": "46 in" }
+    ],
+    "colors": ["Blush Rose", "Soft Champagne", "Ecru"],
+    "fabric": "Lustrous Mikado Silk",
+    "silhouette": "A-Line Tea-Length with Butterfly Sleeves",
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "featured": false,
+    "fittingAvailable": true,
+    "careNotes": [
+      "Garment steam only",
+      "Do not fold terno butterfly sleeves"
+    ],
+    "bestFor": [
+      "Civil Weddings",
+      "Graduations",
+      "Licensure Oathtaking",
+      "Sunday High Tea"
+    ]
+  },
+  {
+    "id": "cb-aurora-set",
+    "name": "Aurora Modern Filipiniana Corset Top & Maxi Skirt Set",
+    "slug": "aurora-modern-filipiniana-corset-maxi-skirt",
+    "shop": "Corset Bloomfield",
+    "shopUrl": "https://enstack.ph/corsetbloomfield",
+    "category": "Modern Filipiniana",
+    "tagline": "Hand-boned French toile printed corset with detachable sleeves & circular maxi skirt",
+    "description": "A masterpiece from Corset Bloomfield's Enstack shop. Combines an intricately hand-boned corset top crafted in French toile damask printed Mikado silk with detachable traditional butterfly terno sleeves, and a floor-skimming circular maxi skirt with practical hidden pockets. A show-stopping fusion of European baroque romance and Filipino cultural pride.",
+    "rentalPrice4Days": 2350,
+    "extraDayRate": 300,
+    "minRentalDays": 4,
+    "maxRentalDays": 14,
+    "retailPrice": 5450,
+    "securityDeposit": 1800,
+    "availableSizes": ["XS", "S", "M", "L"],
+    "measurements": [
+      { "size": "XS", "bust": "31-33 in", "waist": "23-25 in", "hips": "Free", "length": "58 in" },
+      { "size": "S", "bust": "33-35 in", "waist": "25-27 in", "hips": "Free", "length": "58 in" },
+      { "size": "M", "bust": "35-37 in", "waist": "27-29 in", "hips": "Free", "length": "59 in" },
+      { "size": "L", "bust": "37-39 in", "waist": "29-31 in", "hips": "Free", "length": "59 in" }
+    ],
+    "colors": [
+      "Blue & Ivory Toile",
+      "Sepia Rose Toile",
+      "Black & Cream Damask"
+    ],
+    "fabric": "Toile Damask Printed Mikado Silk & Spiral Steel Boning",
+    "silhouette": "Two-Piece Boned Corset Top & Full Circular Maxi Skirt",
+    "images": [
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "featured": true,
+    "fittingAvailable": true,
+    "careNotes": [
+      "Store corset flat in supplied keepsake bag",
+      "Steam skirt and reverse lining of corset only"
+    ],
+    "bestFor": [
+      "Modern Heritage Galas",
+      "Prenup Editorial Shoots",
+      "Church Weddings",
+      "State Dinners"
+    ]
+  },
+  {
+    "id": "cb-areli",
+    "name": "Areli Ivory White Corset Top & Pencil Skirt Set",
+    "slug": "areli-ivory-corset-top-pencil-skirt",
+    "shop": "Corset Bloomfield",
+    "shopUrl": "https://enstack.ph/corsetbloomfield",
+    "category": "Modern Filipiniana",
+    "tagline": "Two-piece modern terno coordinates: boned corset top & high-slit pencil skirt",
+    "description": "As featured on Corset Bloomfield's Enstack store. A chic modern two-piece ensemble combining a tightly boned corset top with detachable terno butterfly sleeves and a sharp high-slit pencil cut skirt in ivory white Mikado silk. Wear together for formal ceremonies or mix with your wardrobe after.",
+    "rentalPrice4Days": 2150,
+    "extraDayRate": 280,
+    "minRentalDays": 4,
+    "maxRentalDays": 14,
+    "retailPrice": 4950,
+    "securityDeposit": 1500,
+    "availableSizes": ["XS", "S", "M", "L"],
+    "measurements": [
+      { "size": "XS", "bust": "31-32 in", "waist": "23-24 in", "hips": "33-35 in", "length": "40 in skirt" },
+      { "size": "S", "bust": "33-34 in", "waist": "25-26 in", "hips": "35-37 in", "length": "40 in skirt" },
+      { "size": "M", "bust": "35-36 in", "waist": "27-28 in", "hips": "37-39 in", "length": "41 in skirt" },
+      { "size": "L", "bust": "37-38 in", "waist": "29-30 in", "hips": "39-41 in", "length": "41 in skirt" }
+    ],
+    "colors": ["Ivory White", "Soft Cream"],
+    "fabric": "Heavyweight Ivory Mikado Silk & Cotton Steel Boning",
+    "silhouette": "Two-Piece Boned Corset Top & Pencil Skirt",
+    "images": [
+      "https://images.unsplash.com/photo-1550614000-4895a10e1bfd?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "featured": true,
+    "fittingAvailable": true,
+    "careNotes": [
+      "Keep corset boning flat during transport in provided dust bag",
+      "Steam only"
+    ],
+    "bestFor": [
+      "Civil Weddings",
+      "Diplomatic Receptions",
+      "Graduation Rites",
+      "Corporate Galas"
+    ]
+  },
+  {
+    "id": "cb-nina-bridal",
+    "name": "Niña Bridal Modern Filipiniana Gown",
+    "slug": "nina-bridal-modern-filipiniana-gown",
+    "shop": "Corset Bloomfield",
+    "shopUrl": "https://enstack.ph/corsetbloomfield",
+    "category": "Bridal & Prenup",
+    "tagline": "Bridal terno with hand-boned corset & cathedral train from Corset Bloomfield",
+    "description": "The crowning bridal creation from Corset Bloomfield on Enstack. Built with an internal architectural corset that sculpts the waist, delicate traditional butterfly sleeves, and a floor-sweeping circular skirt that flows into an ethereal cathedral train. Ideal for modern church weddings, grand cathedral ceremonies, and scenic prenup editorial shoots.",
+    "rentalPrice4Days": 3200,
+    "extraDayRate": 400,
+    "minRentalDays": 4,
+    "maxRentalDays": 14,
+    "retailPrice": 8500,
+    "securityDeposit": 2500,
+    "availableSizes": ["XS", "S", "M", "L"],
+    "measurements": [
+      { "size": "XS", "bust": "31-33 in", "waist": "23-25 in", "hips": "34-36 in", "length": "62 in (Chapel Train)" },
+      { "size": "S", "bust": "33-35 in", "waist": "25-27 in", "hips": "36-38 in", "length": "62 in (Chapel Train)" },
+      { "size": "M", "bust": "35-37 in", "waist": "27-29 in", "hips": "38-40 in", "length": "63 in (Chapel Train)" },
+      { "size": "L", "bust": "37-39 in", "waist": "29-31 in", "hips": "40-42 in", "length": "63 in (Chapel Train)" }
+    ],
+    "colors": ["Bridal Ivory White", "Warm Pearl"],
+    "fabric": "Heavyweight Mikado Silk & Ivory Crepe Lining",
+    "silhouette": "Bridal Ballgown with Boned Corset & Cathedral Train",
+    "images": [
+      "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1549060279-7e168fcee0c2?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "featured": true,
+    "fittingAvailable": true,
+    "careNotes": [
+      "Cathedral train must be bustled during outdoor receptions",
+      "Professional eco dry-cleaning included with rental"
+    ],
+    "bestFor": [
+      "Church Weddings",
+      "Cathedral Ceremonies",
+      "Batanes / Tagaytay Prenup Shoots",
+      "Grand Bridal Entrances"
+    ]
+  },
+  {
+    "id": "cb-beatrice",
+    "name": "Beatrice Champagne Modern Filipiniana Dress",
+    "slug": "beatrice-champagne-filipiniana-dress",
+    "shop": "Corset Bloomfield",
+    "shopUrl": "https://enstack.ph/corsetbloomfield",
+    "category": "Modern Filipiniana",
+    "tagline": "Shimmering champagne modern Filipiniana with structured corset & terno sleeves",
+    "description": "Corset Bloomfield's signature showpiece on Enstack. Constructed from lustrous champagne Mikado silk with a precision-boned internal corset that gives an hourglass silhouette. Features sculpted terno butterfly sleeves and a clean floor-length column cut.",
+    "rentalPrice4Days": 2450,
+    "extraDayRate": 320,
+    "minRentalDays": 4,
+    "maxRentalDays": 14,
+    "retailPrice": 5950,
+    "securityDeposit": 1800,
+    "availableSizes": ["XS", "S", "M", "L", "XL"],
+    "measurements": [
+      { "size": "XS", "bust": "31-32 in", "waist": "23-24 in", "hips": "33-35 in", "length": "56 in" },
+      { "size": "S", "bust": "33-34 in", "waist": "25-26 in", "hips": "35-37 in", "length": "56 in" },
+      { "size": "M", "bust": "35-36 in", "waist": "27-28 in", "hips": "37-39 in", "length": "57 in" },
+      { "size": "L", "bust": "37-38 in", "waist": "29-30 in", "hips": "39-41 in", "length": "57 in" },
+      { "size": "XL", "bust": "39-41 in", "waist": "31-33 in", "hips": "41-43 in", "length": "58 in" }
+    ],
+    "colors": ["Champagne Gold", "Pale Honey", "Warm Almond"],
+    "fabric": "Lustrous Champagne Mikado Silk",
+    "silhouette": "Hourglass Corset Column with Butterfly Sleeves",
+    "images": [
+      "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "featured": true,
+    "fittingAvailable": true,
+    "careNotes": [
+      "Steam gently from the inside lining only",
+      "Never press iron against butterfly sleeves"
+    ],
+    "bestFor": [
+      "State Dinners",
+      "Mother of the Bride",
+      "High-Profile Galas",
+      "PRC Licensure Oath Taking"
+    ]
+  },
+  {
+    "id": "cb-fidela",
+    "name": "Fidela Cream Long Filipiniana Dress",
+    "slug": "fidela-cream-long-filipiniana-dress",
+    "shop": "Corset Bloomfield",
+    "shopUrl": "https://enstack.ph/corsetbloomfield",
+    "category": "Modern Filipiniana",
+    "tagline": "Classic floor-length terno with attached butterfly sleeves & boned corset top",
+    "description": "A stately tribute to authentic Philippine grace from Corset Bloomfield. Features permanently attached traditional butterfly terno sleeves, an internal boned and padded corset top, and a sleek floor-length sheath skirt in rich cream Mikado silk with back walking slit.",
+    "rentalPrice4Days": 1750,
+    "extraDayRate": 230,
+    "minRentalDays": 4,
+    "maxRentalDays": 14,
+    "retailPrice": 3950,
+    "securityDeposit": 1200,
+    "availableSizes": ["XS", "S", "M", "L", "XL"],
+    "measurements": [
+      { "size": "XS", "bust": "31-33 in", "waist": "23-25 in", "hips": "33-35 in", "length": "56 in" },
+      { "size": "S", "bust": "33-35 in", "waist": "25-27 in", "hips": "35-37 in", "length": "56 in" },
+      { "size": "M", "bust": "35-37 in", "waist": "27-29 in", "hips": "37-39 in", "length": "57 in" },
+      { "size": "L", "bust": "37-39 in", "waist": "29-31 in", "hips": "39-41 in", "length": "57 in" },
+      { "size": "XL", "bust": "39-41 in", "waist": "31-33 in", "hips": "41-43 in", "length": "58 in" }
+    ],
+    "colors": ["Cream", "Soft Beige", "Taupe"],
+    "fabric": "Premium Cream Mikado Silk",
+    "silhouette": "Traditional Column Gown with Attached Terno Sleeves",
+    "images": [
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&crop=entropy&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&crop=entropy&fit=crop&w=1000&q=80"
+    ],
+    "featured": false,
+    "fittingAvailable": true,
+    "careNotes": [
+      "Always hang with shoulder foam supports to protect sleeve shape",
+      "Steam gently from underside"
+    ],
+    "bestFor": [
+      "Diplomatic Receptions",
+      "PRC Licensure Oath Taking",
+      "Academic Recognition Rites",
+      "State Galas"
+    ]
+  },
+  {
+    "id": "cb-amada",
+    "name": "Amada Coffee Brown Convertible Shantung Gazar Filipiniana",
+    "slug": "amada-coffee-brown-filipiniana-dress",
+    "shop": "Corset Bloomfield",
+    "shopUrl": "https://enstack.ph/corsetbloomfield",
+    "category": "Modern Filipiniana",
+    "tagline": "Convertible Shantung Gazar with oversized detachable architectural bows",
+    "description": "Modern luxury in a striking deep coffee brown palette from Corset Bloomfield. Tailored in crisp textured Shantung Gazar silk with oversized detachable couture bows and multiway styling versatility. Can be styled as dramatic statement sleeves or detached for a sleek evening silhouette.",
+    "rentalPrice4Days": 1550,
+    "extraDayRate": 200,
+    "minRentalDays": 4,
+    "maxRentalDays": 14,
+    "retailPrice": 3450,
+    "securityDeposit": 1000,
+    "availableSizes": ["XS", "S", "M", "L"],
+    "measurements": [
+      { "size": "XS", "bust": "31-33 in", "waist": "23-25 in", "hips": "33-35 in", "length": "50 in" },
+      { "size": "S", "bust": "33-35 in", "waist": "25-27 in", "hips": "35-37 in", "length": "50 in" },
+      { "size": "M", "bust": "35-37 in", "waist": "27-29 in", "hips": "37-39 in", "length": "51 in" },
+      { "size": "L", "bust": "37-39 in", "waist": "29-31 in", "hips": "39-41 in", "length": "51 in" }
+    ],
+    "colors": ["Coffee Brown", "Espresso", "Deep Mocha"],
+    "fabric": "Textured Shantung Gazar Silk",
+    "silhouette": "Sculptural Sheath with Detachable Oversized Bows",
+    "images": [
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "featured": false,
+    "fittingAvailable": true,
+    "careNotes": [
+      "Keep Shantung Gazar away from water spots",
+      "Steam with dry barrier cloth"
+    ],
+    "bestFor": [
+      "Autumn Weddings",
+      "Formal Dinners",
+      "Art Gallery Openings",
+      "Cocktail Receptions"
+    ]
+  },
+  {
+    "id": "cb-mayumi",
+    "name": "Mayumi Pearl-Embellished Modern Filipiniana Corset & Skirt",
+    "slug": "mayumi-pearl-modern-filipiniana-corset",
+    "shop": "Corset Bloomfield",
+    "shopUrl": "https://enstack.ph/corsetbloomfield",
+    "category": "Modern Filipiniana",
+    "tagline": "Hand-sewn pearl beadwork, boned vintage corset & detachable sleeves",
+    "description": "Romantic heritage couture by Corset Bloomfield. Hand-adorned with delicate pearl bead clusters along the corset neckline and detachable Filipiniana sleeves. Features a structured sweetheart bodice that contours gracefully, paired with a matching A-line skirt in cream Mikado silk.",
+    "rentalPrice4Days": 2150,
+    "extraDayRate": 280,
+    "minRentalDays": 4,
+    "maxRentalDays": 14,
+    "retailPrice": 4950,
+    "securityDeposit": 1500,
+    "availableSizes": ["XS", "S", "M", "L"],
+    "measurements": [
+      { "size": "XS", "bust": "31-33 in", "waist": "23-25 in", "hips": "Free", "length": "44 in" },
+      { "size": "S", "bust": "33-35 in", "waist": "25-27 in", "hips": "Free", "length": "44 in" },
+      { "size": "M", "bust": "35-37 in", "waist": "27-29 in", "hips": "Free", "length": "45 in" },
+      { "size": "L", "bust": "37-39 in", "waist": "29-31 in", "hips": "Free", "length": "45 in" }
+    ],
+    "colors": ["Pearl Cream", "Soft Ecru", "Powder Rose"],
+    "fabric": "Pearl-Embellished Mikado Silk",
+    "silhouette": "A-Line Midi with Boned Pearl Corset & Detachable Sleeves",
+    "images": [
+      "https://images.unsplash.com/photo-1549060279-7e168fcee0c2?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "featured": false,
+    "fittingAvailable": true,
+    "careNotes": [
+      "Handle pearl beading gently; avoid friction with metallic jewelry",
+      "Professional eco dry-cleaning provided by shop"
+    ],
+    "bestFor": [
+      "Intimate Weddings",
+      "Oathtaking Rites",
+      "Heritage Dinners",
+      "Engagement Parties"
+    ]
+  },
+  {
+    "id": "cb-cecilia",
+    "name": "Cecilia Cream Pearl Bustier & Mermaid Cut Maxi Skirt",
+    "slug": "cecilia-cream-pearl-bustier-mermaid-maxi",
+    "shop": "Corset Bloomfield",
+    "shopUrl": "https://enstack.ph/corsetbloomfield",
+    "category": "Gala & Evening Gowns",
+    "tagline": "Fully boned pearl bustier with detachable sleeves & mermaid maxi skirt",
+    "description": "High glamour by Corset Bloomfield. Features a fully boned corset top with built-in bust pads and detachable terno sleeves trimmed with luminous pearl beads, complemented by an elongated mermaid maxi skirt that flares gracefully at the knees.",
+    "rentalPrice4Days": 2250,
+    "extraDayRate": 290,
+    "minRentalDays": 4,
+    "maxRentalDays": 14,
+    "retailPrice": 4950,
+    "securityDeposit": 1500,
+    "availableSizes": ["XS", "S", "M", "L"],
+    "measurements": [
+      { "size": "XS", "bust": "31-33 in", "waist": "23-25 in", "hips": "34-36 in", "length": "58 in" },
+      { "size": "S", "bust": "33-35 in", "waist": "25-27 in", "hips": "36-38 in", "length": "58 in" },
+      { "size": "M", "bust": "35-37 in", "waist": "27-29 in", "hips": "38-40 in", "length": "59 in" },
+      { "size": "L", "bust": "37-39 in", "waist": "29-31 in", "hips": "40-42 in", "length": "59 in" }
+    ],
+    "colors": ["Cream Ivory", "Champagne Pearl"],
+    "fabric": "Mikado Silk & Hand-Strung Pearl Beads",
+    "silhouette": "Mermaid Maxi with Boned Corset Bustier",
+    "images": [
+      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "featured": false,
+    "fittingAvailable": true,
+    "careNotes": [
+      "Mermaid hem requires standard heel clearance",
+      "Steam only"
+    ],
+    "bestFor": [
+      "Red Carpet Galas",
+      "Modern Filipiniana Balls",
+      "Debut Guest of Honor",
+      "Milestone Anniversaries"
+    ]
+  },
+  {
+    "id": "cb-caricia",
+    "name": "Caricia Champagne Tulle Bustier Corset Modern Filipiniana Midi Dress",
+    "slug": "caricia-champagne-tulle-bustier-filipiniana",
+    "shop": "Corset Bloomfield",
+    "shopUrl": "https://enstack.ph/corsetbloomfield",
+    "category": "Modern Filipiniana",
+    "tagline": "Soft tulle bustier with detachable butterfly sleeves & tea-length skirt",
+    "description": "An ethereal creation blending French tulle overlay with structured Mikado silk. The bustier corset features supportive interior boning and sweetheart cups, accompanied by detachable terno butterfly sleeves for flexible styling throughout your event.",
+    "rentalPrice4Days": 2150,
+    "extraDayRate": 280,
+    "minRentalDays": 4,
+    "maxRentalDays": 14,
+    "retailPrice": 4950,
+    "securityDeposit": 1500,
+    "availableSizes": ["XS", "S", "M", "L"],
+    "measurements": [
+      { "size": "XS", "bust": "31-33 in", "waist": "23-25 in", "hips": "Free", "length": "44 in" },
+      { "size": "S", "bust": "33-35 in", "waist": "25-27 in", "hips": "Free", "length": "44 in" },
+      { "size": "M", "bust": "35-37 in", "waist": "27-29 in", "hips": "Free", "length": "45 in" },
+      { "size": "L", "bust": "37-39 in", "waist": "29-31 in", "hips": "Free", "length": "45 in" }
+    ],
+    "colors": ["Champagne Rose", "Dusty Sand"],
+    "fabric": "Soft French Tulle & Mikado Silk",
+    "silhouette": "Bustier Corset Midi with Detachable Sleeves",
+    "images": [
+      "https://images.unsplash.com/photo-1581044777550-4cfa60707c03?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "featured": false,
+    "fittingAvailable": true,
+    "careNotes": [
+      "Tulle is delicate; do not expose to direct heat",
+      "Hang on padded hanger"
+    ],
+    "bestFor": [
+      "Civil Weddings",
+      "Garden Receptions",
+      "Graduation Day",
+      "Afternoon Tea Soirees"
+    ]
+  },
+  {
+    "id": "cb-maya-crinoline",
+    "name": "Maya Cream Crinoline & Rhinestone Midi Filipiniana Dress",
+    "slug": "maya-cream-crinoline-rhinestone-filipiniana",
+    "shop": "Corset Bloomfield",
+    "shopUrl": "https://enstack.ph/corsetbloomfield",
+    "category": "Modern Filipiniana",
+    "tagline": "Attached crinoline lining petticoat with sparkling rhinestones & pearls",
+    "description": "Crafted by Corset Bloomfield for unforgettable volume. Features an integrated crinoline horsehair underskirt that holds its dramatic bell silhouette without collapsing. Embellished with shimmering rhinestones and pearl beadwork across the boned sweetheart bodice, with detachable butterfly sleeves.",
+    "rentalPrice4Days": 2200,
+    "extraDayRate": 280,
+    "minRentalDays": 4,
+    "maxRentalDays": 14,
+    "retailPrice": 4950,
+    "securityDeposit": 1500,
+    "availableSizes": ["XS", "S", "M", "L", "XL"],
+    "measurements": [
+      { "size": "XS", "bust": "31-33 in", "waist": "23-25 in", "hips": "Free", "length": "45 in" },
+      { "size": "S", "bust": "33-35 in", "waist": "25-27 in", "hips": "Free", "length": "45 in" },
+      { "size": "M", "bust": "35-37 in", "waist": "27-29 in", "hips": "Free", "length": "46 in" },
+      { "size": "L", "bust": "37-39 in", "waist": "29-31 in", "hips": "Free", "length": "46 in" },
+      { "size": "XL", "bust": "39-41 in", "waist": "31-33 in", "hips": "Free", "length": "47 in" }
+    ],
+    "colors": ["Cream Gold", "Ivory"],
+    "fabric": "Embellished Mikado Silk with Crinoline Underskirt",
+    "silhouette": "Flared Bell Midi with Crinoline Petticoat",
+    "images": [
+      "https://images.unsplash.com/photo-1550614000-4895a10e1bfd?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "featured": false,
+    "fittingAvailable": true,
+    "careNotes": [
+      "Do not fold or press the crinoline underskirt",
+      "Store in extra-long garment bag provided"
+    ],
+    "bestFor": [
+      "Grand Debut Entrances",
+      "Graduation Balls",
+      "Heritage Ceremonies",
+      "Wedding Guests"
+    ]
+  }
+]

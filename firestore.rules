@@ -1,0 +1,43 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function isValidId(id) {
+      return id is string && id.size() > 0 && id.size() <= 128;
+    }
+
+    // Default deny
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    // Test connection doc
+    match /test/{testId} {
+      allow read: if true;
+    }
+
+    // Products collection: Rent To Slay inventory
+    match /products/{productId} {
+      allow read: if true;
+      allow write: if isValidId(productId);
+    }
+
+    // Inventory collection: SKUs, sizes, availability
+    match /inventory/{inventoryId} {
+      allow read: if true;
+      allow write: if isValidId(inventoryId);
+    }
+
+    // Dresses collection: Public rental catalog
+    match /dresses/{dressId} {
+      allow read: if true;
+      allow write: if isValidId(dressId);
+    }
+
+    // Bookings collection: Customer rental bookings
+    match /bookings/{bookingId} {
+      allow read: if true;
+      allow write: if isValidId(bookingId);
+    }
+  }
+}

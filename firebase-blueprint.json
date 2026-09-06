@@ -1,0 +1,87 @@
+{
+  "entities": {
+    "Dress": {
+      "title": "Dress",
+      "description": "Rental gown or modern Filipiniana product listing",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "name": { "type": "string", "maxLength": 200 },
+        "slug": { "type": "string", "maxLength": 200 },
+        "shop": { "type": "string", "enum": ["Love Humbly", "Corset Bloomfield"] },
+        "category": { "type": "string", "maxLength": 100 },
+        "tagline": { "type": "string", "maxLength": 300 },
+        "description": { "type": "string", "maxLength": 2000 },
+        "rentalPrice4Days": { "type": "number" },
+        "extraDayRate": { "type": "number" },
+        "rentalPrice3Days": { "type": "number" },
+        "rentalPrice5Days": { "type": "number" },
+        "retailPrice": { "type": "number" },
+        "securityDeposit": { "type": "number" },
+        "availableSizes": { "type": "array" },
+        "colors": { "type": "array" },
+        "fabric": { "type": "string", "maxLength": 200 },
+        "silhouette": { "type": "string", "maxLength": 200 },
+        "images": { "type": "array" },
+        "featured": { "type": "boolean" },
+        "fittingAvailable": { "type": "boolean" },
+        "careNotes": { "type": "array" },
+        "bestFor": { "type": "array" },
+        "blockedDates": { "type": "array" },
+        "createdAt": { "type": "string" },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["id", "name", "shop", "category", "rentalPrice4Days", "images"]
+    },
+    "Booking": {
+      "title": "Booking",
+      "description": "Customer rental booking record",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "referenceNumber": { "type": "string", "maxLength": 64 },
+        "dressId": { "type": "string", "maxLength": 128 },
+        "dressName": { "type": "string", "maxLength": 200 },
+        "dressImage": { "type": "string", "maxLength": 1000 },
+        "customerName": { "type": "string", "maxLength": 200 },
+        "customerEmail": { "type": "string", "maxLength": 200 },
+        "customerPhone": { "type": "string", "maxLength": 50 },
+        "customerSocial": { "type": "string", "maxLength": 100 },
+        "deliveryAddress": { "type": "string", "maxLength": 500 },
+        "selectedSize": { "type": "string", "maxLength": 20 },
+        "startDate": { "type": "string", "maxLength": 20 },
+        "returnDate": { "type": "string", "maxLength": 20 },
+        "durationDays": { "type": "number" },
+        "rentalFee": { "type": "number" },
+        "securityDeposit": { "type": "number" },
+        "totalAmount": { "type": "number" },
+        "paymentMethod": { "type": "string", "maxLength": 50 },
+        "paymentStatus": { "type": "string", "maxLength": 50 },
+        "bookingStatus": { "type": "string", "maxLength": 50 },
+        "depositStatus": { "type": "string", "maxLength": 50 },
+        "gcashReference": { "type": "string", "maxLength": 100 },
+        "receiptProofUrl": { "type": "string", "maxLength": 1000 },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["id", "referenceNumber", "dressId", "customerName", "startDate", "returnDate", "totalAmount"]
+    }
+  },
+  "firestore": {
+    "/products/{productId}": {
+      "schema": "#/entities/Product",
+      "description": "Store products from Love Humbly and Corset Bloomfield"
+    },
+    "/inventory/{inventoryId}": {
+      "schema": "#/entities/InventoryItem",
+      "description": "SKU and sizing inventory records"
+    },
+    "/dresses/{dressId}": {
+      "schema": "#/entities/Dress",
+      "description": "Public catalog of rental dresses and gowns"
+    },
+    "/bookings/{bookingId}": {
+      "schema": "#/entities/Booking",
+      "description": "Customer rental bookings"
+    }
+  }
+}
